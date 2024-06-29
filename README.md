@@ -1,22 +1,22 @@
 # Desafio de projeto: Modelando o iPhone com UML: Funções de músicas, chamadas e Internet
 
-Nesse código, você poderá vi uma mini versão de iPhone, porém com algumas palavras trocadas para caso de direitos autorais (igual Safari) e por criatividade do autor
+Nesse código, você poderá ver uma mini versão de iPhone, porém com algumas palavras trocadas para caso de direitos autorais (igual Safari) e por criatividade do autor
 
 Nele vamos ter quatro programas distintos, sendo um deles o central, que é o smartPhone, onde o usuário escolherá qual dos outros três quer iniciar
 
 ## tPod: O aplicativo de música
 
-O tPod é somente uma imitação de aplicativos de música, por conta dele não tocar nenhuma música, porém é dividido em três partes, dos artistas, músicas e album, onde você usuário poderá adiciona-los e pesquisar por eles separadamente. Então se você quiser pesquisar a partir de album, artista ou pela música, está liberado
+O tPod é somente uma imitação de aplicativos de música, por conta de ele não tocar nenhuma música, porém é dividido em três partes, dos artistas, músicas e álbum, onde você usuário poderá adicioná-los e pesquisar por eles separadamente. Então se você quiser pesquisar a partir de álbum, artista ou pela música, está liberado
 
 > [!NOTE]
 >
-> Como foi dito a cima, é somente uma imitação de um aplicativo de música então não terá como coloca-las para tocar
+> Como foi dito acima, é somente uma imitação de um aplicativo de música então não terá como coloca-las para tocar
 
 **Obs.:** Os arquivos do programa do tPod, estão dentro da pasta tPod
 
 ## Telefone: O aplicativo de ligação
 
-O telefone, como já diz, serve para o usuário fazer ligações ficticias para um contato, onde poderá ser adicionado e também, poderá ser editado, sem que hajá dois contatos duplicados (com o mesmo nome ou número), além de fazer ligações, tanto a partir de uma agenda, quanto discando para um número
+O telefone, como já diz, serve para o usuário fazer ligações fictícias para um contato, onde poderá ser adicionado e também, poderá ser editado, sem que haja dois contatos duplicados (com o mesmo nome ou número), além de fazer ligações, tanto a partir de uma agenda, quanto discando para um número
 
 > [!NOTE]
 >
@@ -26,12 +26,12 @@ O telefone, como já diz, serve para o usuário fazer ligações ficticias para 
 
 ## Browser: O navegador de busca
 
-Mesmo não querendo colocar esse nome é sim Search ou Buscar, coloque por conta de ser um nome bem mais sofisticado, e primeiramente, eu queria fazer ele realmente um Browser, como o Edge ou Google, porém mesmo tentando buscar conhecimento sobre APIs e de como usar uma biblioteca gráfica do Java não consegui completar meu objetivo
+Mesmo não querendo colocar esse nome é sim Search ou Buscar, coloque por conta de ser um nome bem mais sofisticado, e primeiramente, eu queria fazê-lo realmente um Browser, como o Edge ou Google, porém mesmo tentando buscar conhecimento sobre APIs e de como usar uma biblioteca gráfica do Java não consegui completar meu objetivo
 
-Porém, decidi fazer igual os outros uma imitação, porém que funcional, por conta de o usuário poder acessar o site que ele adicionou ao sistema no seu próprio navegador (assim deixando mais funcional que os outros e bem mais próximo dos navegadores reais). Agora falando sobre os seus comando, que são básicamente pesquisar a partir de uma lista de sites adicionada no sistema pelo próprio usuário, além de ter uma variavel, que irá salvar os sites que usuário gostou (como o favoritos do Google ou Edge, ou de qualquer outro navegador)
+Porém, decidi fazer igual os outros uma imitação, porém que funcional, por conta de o usuário pode acessar o site que ele adicionou ao sistema no seu próprio navegador (assim deixando mais funcional que os outros e bem mais próximo dos navegadores reais). Agora falando sobre os seus comandos, que são basicamente pesquisar a partir de uma lista de sites adicionada no sistema pelo próprio usuário, além de ter uma variável, que irá salvar os sites que usuário gostou (como os favoritos do Google ou Edge, ou de qualquer outro navegador)
 
 > [!NOTE]
 >
-> Mesmo sendo muito parecido com a realidade, o usuário não consegue ter múltiplas guias, como na interface gráfica e também, creio que ela seja até melhor do que usar o terminal (em termos de vizualição)
+> Mesmo sendo muito parecido com a realidade, o usuário não consegue ter múltiplas guias, como na interface gráfica e também, creio que ela seja até melhor do que usar o terminal (em termos de visualização)
 
 **Obs.:** Os arquivos do programa Browser, estarão dentro da pasta browser
